@@ -7,7 +7,7 @@ Kelompok : A11.4316
 
 Silahkan git clone di linux atau windows untuk mengexctra file.
 
-1. https://github.com/gustipwa/WEBCOM.git
+1. link git clone https://github.com/gustipwa/WEBCOM.git
 
 2.cd /var/www/html
 
